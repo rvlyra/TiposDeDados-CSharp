@@ -1,0 +1,15 @@
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/bin/Debug/net6.0/Tipo
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/bin/Debug/net6.0/Tipo.deps.json
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/bin/Debug/net6.0/Tipo.runtimeconfig.json
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/bin/Debug/net6.0/Tipo.dll
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/bin/Debug/net6.0/Tipo.pdb
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.csproj.AssemblyReference.cache
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.GeneratedMSBuildEditorConfig.editorconfig
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.AssemblyInfoInputs.cache
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.AssemblyInfo.cs
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.csproj.CoreCompileInputs.cache
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.dll
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/refint/Tipo.dll
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.pdb
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/Tipo.genruntimeconfig.cache
+/home/rvlyra/DEV/GitProjects/ghub/TiposDeDados-CSharp/Tipo/obj/Debug/net6.0/ref/Tipo.dll
