@@ -5,17 +5,19 @@ public class MainClass
 {
     public static void Main(string[] args)
     {
-        // Captura de dados com quebra de linha
-        
-        string[] fN = Console.ReadLine().Split(' ');
-        string fname = fN[0];
-        string lname = fN[1];
+       double n1 = double.Parse(Console.ReadLine(), CultureInfo.InstalledUICulture);
+       double n2 = double.Parse(Console.ReadLine(), CultureInfo.InstalledUICulture);
+       double n3 = double.Parse(Console.ReadLine(), CultureInfo.InstalledUICulture);
 
-        Console.WriteLine($"O nome digitado foi: {fname} {lname}.");
+       double sum = n1 + n2 + n3;
+       double media = sum / 3;
+       Console.WriteLine($"O aluno fez {sum} pontos. A resultado final é {media}.");
 
-        //string fname = Console.ReadLine();
-        //string lname = Console.ReadLine();
-        //Console.WriteLine($"O nome digitado foi: {fname} {lname} ");
-
+       /* 
+       string fname = Console.ReadLine();
+       string lname = Console.ReadLine();
+       int age = int.Parse(Console.ReadLine());
+       Console.WriteLine($"Nome completo: {fname} {lname}. Idade: {age}.");
+       */
     }
 }
